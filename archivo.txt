@@ -1,0 +1,65 @@
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:4:	Avoid unused imports such as 'java.util.Map'
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:17:	Avoid unused private fields such as 'LOGGER'.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:19:	Avoid excessively long variable names like applicationConfigurationService
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:27:	Avoid excessively long variable names like applicationConfigurationService
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:27:	Parameter 'applicationConfigurationService' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:36:	Parameter 'dynamicServiceUtility' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\main\java\com\bbva\mfad\lib\rq01\impl\MFADRQ01Abstract.java:39:	Parameter 'mfadRCAT' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\lib\rq01\MFADRQ01Test.java:23:	Avoid unused private fields such as 'mfadRQ01'.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\lib\rq01\factory\DynamicServiceUtilityFactoryTest.java:12:	Parameter 'arg0' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:22:	Parameter 'arg0' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:25:	Avoid variables with short names like is
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:30:	Avoid empty catch blocks
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:36:	Parameter 'property' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:41:	Parameter 'property' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:42:	Parameter 'defaultProperty' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\ConfigurationFactoryMock.java:46:	Consider simply returning the value vs storing it in local variable 'connectorConfigBundle'
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\LibraryMonitorizationAspectMock.java:10:	Parameter 'arg0' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\LibraryMonitorizationAspectMock.java:15:	Parameter 'arg0' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:31:	This class has too many methods, consider refactoring it.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:33:	Private field 'stringList' could be made final; it is only initialized in the declaration or constructor.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:35:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:42:	Parameter 'key' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:43:	The String literal "Operation not supported" appears 19 times in this file; the first occurrence is on line 43
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:63:	Parameter 'input' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:63:	Parameter 'location' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:69:	Parameter 'location' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:74:	Avoid variables with short names like id
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:74:	Parameter 'id' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:84:	Parameter 'filter' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:84:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:90:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:95:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:100:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:105:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:110:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:115:	Parameter 'listener' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:120:	Parameter 'clazzes' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:121:	Parameter 'properties' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:121:	Parameter 'service' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:126:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:126:	Parameter 'service' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:127:	Parameter 'properties' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:132:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:133:	Parameter 'properties' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:133:	Parameter 'service' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:138:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:139:	Parameter 'filter' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:146:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:147:	Parameter 'filter' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:154:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:160:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:166:	Parameter 'clazz' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:166:	Parameter 'filter' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:174:	Parameter 'reference' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:179:	Parameter 'reference' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:184:	Parameter 'filename' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:189:	Parameter 'filter' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:194:	Parameter 'location' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:199:	Parameter 'applicationContext' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:205:	Parameter 'reference' is not assigned and could be declared final
+D:\BBVA\MFAD\TDC\PI10Deudas\IDE_APX_win64\workspace\MFADRQ01IMPL-0.0.0\src\test\java\com\bbva\mfad\mock\MockBundleContext.java:221:	Avoid printStackTrace(); use a logger call instead.
